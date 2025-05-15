@@ -1,0 +1,165 @@
+<!-- wp:cover {"url":"https://massabe.edu.pe/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-22-at-12.33.49-PM.jpeg","id":45,"dimRatio":0,"customOverlayColor":"#8d7668","isUserOverlayColor":true,"minHeight":100,"minHeightUnit":"vh","customGradient":"linear-gradient(35deg,rgb(6,0,151) 0%,rgb(130,4,255) 73%,rgb(193,15,255) 100%)","align":"full"} -->
+<div class="wp-block-cover alignfull" style="min-height:100vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim has-background-gradient" style="background-color:#8d7668;background:linear-gradient(35deg,rgb(6,0,151) 0%,rgb(130,4,255) 73%,rgb(193,15,255) 100%)"></span><img class="wp-block-cover__image-background wp-image-45" alt="" src="https://massabe.edu.pe/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-22-at-12.33.49-PM.jpeg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Escribe el título…","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"bottom":"0px"}}},"layout":{"inherit":false,"contentSize":"1200px","type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="padding-bottom:0px"><!-- wp:columns {"verticalAlignment":"top","style":{"spacing":{"blockGap":"40px"}}} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","style":{"spacing":{"blockGap":"8px"}}} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":134,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://massabe.edu.pe/wp-content/themes/astra/inc/assets/images/starter-content/building.svg" alt="" class="wp-image-134"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"margin":{"top":"16px"}}}} -->
+<h3 class="wp-block-heading has-text-align-left" style="margin-top:16px">DIRECCION</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Calle Piura 347 - Ica.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","style":{"spacing":{"blockGap":"8px"}}} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":135,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://massabe.edu.pe/wp-content/themes/astra/inc/assets/images/starter-content/shopping-bag.svg" alt="" class="wp-image-135"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"margin":{"top":"16px"}}}} -->
+<h3 class="wp-block-heading has-text-align-left" style="margin-top:16px">PLATAFORMA ESTUDIANTIL</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Microsoft 365</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","style":{"spacing":{"blockGap":"8px"}}} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":136,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://massabe.edu.pe/wp-content/themes/astra/inc/assets/images/starter-content/blog.svg" alt="" class="wp-image-136"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"margin":{"top":"16px"}}}} -->
+<h3 class="wp-block-heading has-text-align-left" style="margin-top:16px">ASISTENCIA</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Lorem ipsum dolor consectetur adipiscing elit eiusmod.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","style":{"spacing":{"blockGap":"8px"}}} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":137,"width":"47px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://massabe.edu.pe/wp-content/themes/astra/inc/assets/images/starter-content/portfolio.svg" alt="" class="wp-image-137" style="width:47px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"margin":{"top":"16px"}}}} -->
+<h3 class="wp-block-heading has-text-align-left" style="margin-top:16px">TELEFONOS</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">056</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"bottom":"0px","top":"144px"}}},"layout":{"inherit":false,"contentSize":"1200px","type":"constrained"}} -->
+<div class="wp-block-group alignfull" id="services" style="padding-top:144px;padding-bottom:0px"></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"143px","bottom":"144px"}}},"backgroundColor":"ast-global-color-5","layout":{"inherit":false,"contentSize":"1200px","type":"constrained"}} -->
+<div class="wp-block-group alignfull has-ast-global-color-5-background-color has-background" id="about" style="padding-top:143px;padding-bottom:144px"><!-- wp:media-text {"align":"","mediaPosition":"right","mediaId":48,"mediaLink":"https://massabe.edu.pe/inicio/attachment/primaria-ica-1/","mediaType":"image","verticalAlignment":"center","backgroundColor":"ast-global-color-2"} -->
+<div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-center has-ast-global-color-2-background-color has-background"><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"right":"80px"}}},"layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-right:80px"><!-- wp:heading {"textAlign":"center","style":{"spacing":{"padding":{"right":"40px"}}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="padding-right:40px">PRIMARIA</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>El éxito no se mide por los logros, sino por los obstáculos que superas.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div><figure class="wp-block-media-text__media"><img src="https://massabe.edu.pe/wp-content/uploads/2024/04/PRIMARIA-ICA-1.jpg" alt="" class="wp-image-48 size-full"/></figure></div>
+<!-- /wp:media-text -->
+
+<!-- wp:spacer {"height":"81px"} -->
+<div style="height:81px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:media-text {"align":"","mediaId":57,"mediaLink":"https://massabe.edu.pe/inicio/attachment/secundaria/","mediaType":"image","verticalAlignment":"center","backgroundColor":"ast-global-color-3"} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center has-ast-global-color-3-background-color has-background"><figure class="wp-block-media-text__media"><img src="https://massabe.edu.pe/wp-content/uploads/2024/04/SECUNDARIA-1024x682.jpeg" alt="" class="wp-image-57 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"right":"80px"}}},"layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-right:80px"><!-- wp:heading {"textAlign":"center","style":{"spacing":{"padding":{"right":"40px"}}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="padding-right:40px">SECUNDARIA</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>El secreto del éxito es el trabajo en equipo.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group -->
+
+<!-- wp:cover {"url":"https://massabe.edu.pe/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-22-at-12.33.49-PM.jpeg","id":45,"dimRatio":0,"customOverlayColor":"#8d7668","isUserOverlayColor":true,"minHeight":100,"minHeightUnit":"vh","align":"full"} -->
+<div class="wp-block-cover alignfull" style="min-height:100vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim has-background-gradient" style="background-color:#8d7668;background:linear-gradient(35deg,rgb(6,0,151) 0%,rgb(130,4,255) 73%,rgb(193,15,255) 100%)"></span><img class="wp-block-cover__image-background wp-image-45" alt="" src="https://massabe.edu.pe/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-22-at-12.33.49-PM.jpeg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Escribe el título…","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"bottom":"0px"}}},"layout":{"inherit":false,"contentSize":"1200px","type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="padding-bottom:0px"><!-- wp:columns {"verticalAlignment":"top","style":{"spacing":{"blockGap":"40px"}}} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","style":{"spacing":{"blockGap":"8px"}}} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":134,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://massabe.edu.pe/wp-content/themes/astra/inc/assets/images/starter-content/building.svg" alt="" class="wp-image-134"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"margin":{"top":"16px"}}}} -->
+<h3 class="wp-block-heading has-text-align-left" style="margin-top:16px">DIRECCION</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Calle Piura 347 - Ica.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","style":{"spacing":{"blockGap":"8px"}}} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":135,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://massabe.edu.pe/wp-content/themes/astra/inc/assets/images/starter-content/shopping-bag.svg" alt="" class="wp-image-135"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"margin":{"top":"16px"}}}} -->
+<h3 class="wp-block-heading has-text-align-left" style="margin-top:16px">PLATAFORMA ESTUDIANTIL</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Microsoft 365</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","style":{"spacing":{"blockGap":"8px"}}} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":136,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://massabe.edu.pe/wp-content/themes/astra/inc/assets/images/starter-content/blog.svg" alt="" class="wp-image-136"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"margin":{"top":"16px"}}}} -->
+<h3 class="wp-block-heading has-text-align-left" style="margin-top:16px">ASISTENCIA</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Lorem ipsum dolor consectetur adipiscing elit eiusmod.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","style":{"spacing":{"blockGap":"8px"}}} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":137,"width":"47px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://massabe.edu.pe/wp-content/themes/astra/inc/assets/images/starter-content/portfolio.svg" alt="" class="wp-image-137" style="width:47px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"margin":{"top":"16px"}}}} -->
+<h3 class="wp-block-heading has-text-align-left" style="margin-top:16px">TELEFONOS</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">056</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->

@@ -1,0 +1,151 @@
+<!-- wp:cover {"url":"https://massabe.edu.pe/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-22-at-12.33.49-PM.jpeg","id":45,"dimRatio":0,"customOverlayColor":"#8d7668","isUserOverlayColor":true,"minHeight":100,"minHeightUnit":"vh","customGradient":"linear-gradient(35deg,rgb(6,0,151) 0%,rgb(130,4,255) 73%,rgb(193,15,255) 100%)","align":"full"} -->
+<div class="wp-block-cover alignfull" style="min-height:100vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim has-background-gradient" style="background-color:#8d7668;background:linear-gradient(35deg,rgb(6,0,151) 0%,rgb(130,4,255) 73%,rgb(193,15,255) 100%)"></span><img class="wp-block-cover__image-background wp-image-45" alt="" src="https://massabe.edu.pe/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-22-at-12.33.49-PM.jpeg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Escribe el título…","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"bottom":"0px"}}},"layout":{"inherit":false,"contentSize":"1200px","type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="padding-bottom:0px"><!-- wp:columns {"verticalAlignment":"top","style":{"spacing":{"blockGap":"40px"}}} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","style":{"spacing":{"blockGap":"8px"}}} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":134,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://massabe.edu.pe/wp-content/themes/astra/inc/assets/images/starter-content/building.svg" alt="" class="wp-image-134"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"margin":{"top":"16px"}}}} -->
+<h3 class="wp-block-heading has-text-align-left" style="margin-top:16px">DIRECCION</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Calle Piura 347 - Ica.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","style":{"spacing":{"blockGap":"8px"}}} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":135,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://massabe.edu.pe/wp-content/themes/astra/inc/assets/images/starter-content/shopping-bag.svg" alt="" class="wp-image-135"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"margin":{"top":"16px"}}}} -->
+<h3 class="wp-block-heading has-text-align-left" style="margin-top:16px">PLATAFORMA ESTUDIANTIL</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Microsoft 365</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","style":{"spacing":{"blockGap":"8px"}}} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":136,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://massabe.edu.pe/wp-content/themes/astra/inc/assets/images/starter-content/blog.svg" alt="" class="wp-image-136"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"margin":{"top":"16px"}}}} -->
+<h3 class="wp-block-heading has-text-align-left" style="margin-top:16px">ASISTENCIA</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Lorem ipsum dolor consectetur adipiscing elit eiusmod.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","style":{"spacing":{"blockGap":"8px"}}} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":137,"width":"47px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://massabe.edu.pe/wp-content/themes/astra/inc/assets/images/starter-content/portfolio.svg" alt="" class="wp-image-137" style="width:47px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"left","level":3,"style":{"spacing":{"margin":{"top":"16px"}}}} -->
+<h3 class="wp-block-heading has-text-align-left" style="margin-top:16px">TELEFONOS</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">056</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"bottom":"0px","top":"144px"}}},"layout":{"inherit":false,"contentSize":"1200px","type":"constrained"}} -->
+<div class="wp-block-group alignfull" id="services" style="padding-top:144px;padding-bottom:0px"></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"143px","bottom":"144px"}}},"backgroundColor":"ast-global-color-5","layout":{"inherit":false,"contentSize":"1200px","type":"constrained"}} -->
+<div class="wp-block-group alignfull has-ast-global-color-5-background-color has-background" id="about" style="padding-top:143px;padding-bottom:144px"><!-- wp:media-text {"align":"","mediaPosition":"right","mediaId":48,"mediaLink":"https://massabe.edu.pe/inicio/attachment/primaria-ica-1/","mediaType":"image","verticalAlignment":"center"} -->
+<div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-center"><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"right":"80px"}}},"layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-right:80px"><!-- wp:heading {"textAlign":"center","style":{"spacing":{"padding":{"right":"40px"}}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="padding-right:40px">PRIMARIA</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>El éxito no se mide por los logros, sino por los obstáculos que superas.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div><figure class="wp-block-media-text__media"><img src="https://massabe.edu.pe/wp-content/uploads/2024/04/PRIMARIA-ICA-1.jpg" alt="" class="wp-image-48 size-full"/></figure></div>
+<!-- /wp:media-text -->
+
+<!-- wp:spacer {"height":"81px"} -->
+<div style="height:81px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:media-text {"align":"","mediaId":57,"mediaLink":"https://massabe.edu.pe/inicio/attachment/secundaria/","mediaType":"image","verticalAlignment":"center"} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><img src="https://massabe.edu.pe/wp-content/uploads/2024/04/SECUNDARIA-1024x682.jpeg" alt="" class="wp-image-57 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"right":"80px"}}},"layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-right:80px"><!-- wp:heading {"textAlign":"center","style":{"spacing":{"padding":{"right":"40px"}}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="padding-right:40px">SECUNDARIA</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>El éxito no se mide por los logros, sino por los obstáculos que superas.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"144px","bottom":"144px"}}},"layout":{"inherit":false,"contentSize":"1200px","type":"constrained"}} -->
+<div class="wp-block-group alignfull" id="whyus" style="padding-top:144px;padding-bottom:144px"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">DESCARGA DE DOCUMENTOS </h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"style":{"spacing":{"blockGap":"80px","margin":{"top":"60px"}}}} -->
+<div class="wp-block-columns" style="margin-top:60px"><!-- wp:column {"style":{"spacing":{"blockGap":"8px"}},"backgroundColor":"ast-global-color-5"} -->
+<div class="wp-block-column has-ast-global-color-5-background-color has-background"><!-- wp:image {"id":50,"width":"113px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="https://massabe.edu.pe/wp-content/uploads/2024/04/DOC-LOGO.webp" alt="" class="wp-image-50" style="width:113px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"spacing":{"margin":{"top":"16px"}}}} -->
+<h3 class="wp-block-heading has-text-align-center" style="margin-top:16px">FUT</h3>
+<!-- /wp:heading -->
+
+<!-- wp:file {"id":52,"href":"https://massabe.edu.pe/wp-content/uploads/2024/04/formulario-unico-de-tramites.pdf","displayPreview":true,"previewHeight":255} -->
+<div class="wp-block-file"><object class="wp-block-file__embed" data="https://massabe.edu.pe/wp-content/uploads/2024/04/formulario-unico-de-tramites.pdf" type="application/pdf" style="width:100%;height:255px" aria-label="formulario-unico-de-tramites"></object><a id="wp-block-file--media-5f19cb88-d1e7-478f-acb0-3fdde8b06eea" href="https://massabe.edu.pe/wp-content/uploads/2024/04/formulario-unico-de-tramites.pdf">formulario-unico-de-tramites</a><a href="https://massabe.edu.pe/wp-content/uploads/2024/04/formulario-unico-de-tramites.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-5f19cb88-d1e7-478f-acb0-3fdde8b06eea">Descarga</a></div>
+<!-- /wp:file --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+<div><section class="map"><center>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3870.144024510534!2d-75.72872412569234!3d-14.068671282834135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9110e29784b404e1%3A0x82a5d451fcd059ed!2sInstituci%C3%B3n%20Educativa%20Santa%20Ana%20de%20Benavides!5e0!3m2!1ses-419!2spe!4v1720110088718!5m2!1ses-419!2spe" width="1200" height="600"</center> style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </section>
+</div>
+<p></p>
+
+
+<!-- wp:group {"layout":{"type":"constrained","justifyContent":"center"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:video -->
+<figure class="wp-block-video"></figure>
+<!-- /wp:video --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:media-text {"mediaWidth":18} -->
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:18% auto"><figure class="wp-block-media-text__media"></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Contenido…"} -->
+<p></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- wp:column -->
+
+
+
+
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
